@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nshaw928
+- 👋 Hi, I’m Nick
 - 👀 I’m interested in approaching problems scientifically and using code as a tool.
 - 🌱 I’m currently learning basic data science.
 - 💞️ I’m looking to collaborate on new, exciting projects.
