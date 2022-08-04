@@ -14,4 +14,4 @@ I am excited to learn more math, statistics, and computer science. Specifically 
 - Machine Learning Methods
 ## 📫 Let's Get in Contact
 I can be reached at my [Twitter](https://twitter.com/nicholasrshaw), [LinkedIn](https://www.linkedin.com/in/nicholasryanshaw/),
-or by email: shawns (at) mail.uc.edu
+or by email: shawns@mail.uc.edu
