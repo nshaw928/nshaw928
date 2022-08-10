@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Nick
 I'm a student at the University of Cincinnati, studying medical sciences. My experience within structural biology
-allowed me to start utilizing python as a tool for my research, and I am excited to approach these complex topics
-computationally to help support scientific bench research.
+allowed me to start utilizing python as a tool for my research, and I enjoy using my computational skills to develop
+solutions for biological problems and to help support scientific bench research.
 ## 👀 What am I up to now?
 Currently, I am developing a method to analyze complex networks of protein-protein interactions entirely from prediction
 methods *(AlphaFold and friends)*. I am conducting this work as a part of the [Brown Lab](https://brown.hms.harvard.edu/)
