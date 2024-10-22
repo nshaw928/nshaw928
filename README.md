@@ -1,17 +1,8 @@
 ## 👋 Hi, I’m Nick
-I'm a student at the University of Cincinnati, studying medical sciences. My experience within structural biology
-allowed me to start utilizing python as a tool for my research, and I enjoy using my computational skills to develop
-solutions for biological problems and to help support scientific bench research.
+I'm a student at the University of Colorado Boulder, studying computer science.
 ## 👀 What am I up to now?
-Currently, I am developing a method to analyze complex networks of protein-protein interactions entirely from prediction
-methods *(AlphaFold and friends)*. I am conducting this work as a part of the [Brown Lab](https://brown.hms.harvard.edu/)
-at Harvard Medical School, while being supported by the [Barry Goldwater Scholarship](https://goldwaterscholarship.gov/).
+I am working on my masters in computer science at CU Boulder and working on projects that interest me.
 ## 🌱 What's Next?
-I am excited to learn more math, statistics, and computer science. Specifically I'm interested in learning more:
-- Bayesian Statistics
-- Data Visualization
-- Pandas Optimization
-- Machine Learning Methods
+I am actively seeking internship opportunities for any time in 2025.
 ## 📫 Let's Get in Contact
-I can be reached at my [Twitter](https://twitter.com/nicholasrshaw), [LinkedIn](https://www.linkedin.com/in/nicholasryanshaw/),
-or by email: shawns@mail.uc.edu
+I can be reached at my [LinkedIn](https://www.linkedin.com/in/nicholasryanshaw/) or by email: connect@nicholasshaw.email
